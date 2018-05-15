@@ -11,4 +11,4 @@ echo "useful tricks for me, by me">>README.md
 git add README.md 
 git commit -am "First commit, with readme"
 git remote add origin git@github.com:jorisgu/jg_utils.git
-git push origin master
+git push --set-upstream origin master
